@@ -1,18 +1,18 @@
 {
-    "name": "slush-reframe",
-    "description": "Reframe generator",
-    "version": "0.1.1",
-    "homepage": "https://github.com/kristianmandrup/slush-reframe",
+    "name": "slush-re-frame",
+    "description": "Re-frame generator",
+    "version": "0.0.2",
+    "homepage": "https://github.com/meiraleal/slush-re-frame",
     "author": {
-        "name": "Kristian Mandrup",
-        "email": "kmandrup@gmail.com"
+        "name": "Alan Leal",
+        "email": "alan@engarte.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/kristianmandrup/slush-reframe.git"
+        "url": "git://github.com/meiraleal/slush-re-frame.git"
     },
     "bugs": {
-        "url": "https://github.com/kristianmandrup/slush-reframe/issues"
+        "url": "https://github.com/meiraleal/slush-re-frame/issues"
     },
     "license": "MIT",
     "main": "slushfile.js",
